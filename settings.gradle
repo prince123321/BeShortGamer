@@ -1,0 +1,3 @@
+include ':beshortgamer'
+include ':app'
+rootProject.name = "BeShortGamerLibrary"
